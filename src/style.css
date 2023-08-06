@@ -16,6 +16,7 @@ ul {
 
 li {
   color: rgba(39, 33, 66, 0.4);
+  text-transform: capitalize;
   font-size: 16px;
   font-weight: 500;
   line-height: 20px;
@@ -41,7 +42,7 @@ li {
 }
 .weather-temperture strong {
   color: #212121;
-  font-size: 50px;
+  font-size: 100px;
   font-weight: 100px;
   line-height: 1;
   margin-left: 10px;
@@ -49,5 +50,4 @@ li {
 .units {
   color: #272142;
   position: relative;
-  top: -32px;
 }
