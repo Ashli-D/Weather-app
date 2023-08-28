@@ -1,5 +1,6 @@
 body {
   font-family: Cerebri-Sans, Helvetica, Arial, sans-serif;
+  background-image: url("paper.gif");
 }
 
 h1 {
@@ -30,7 +31,7 @@ li {
 }
 
 .weather-app {
-  background: #fff;
+  background: pink;
   border-radius: 16px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   color: #878787;
